@@ -1,2 +1,0 @@
-pah_as_exposure = pd.read_csv(pah_as_exposure)
-pah_as_exposure
